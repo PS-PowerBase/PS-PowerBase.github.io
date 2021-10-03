@@ -1,1 +1,1 @@
-# PS-PowerBase.github.io
+# Powerlifting-Gym Deutschlandkarte
