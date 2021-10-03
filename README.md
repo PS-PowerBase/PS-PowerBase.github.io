@@ -1,3 +1,4 @@
+![](Titelbild.png)
 # Powerlifting-Gym Deutschlandkarte
 
 ## Interaktive Karte coming soon!
